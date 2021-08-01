@@ -1,11 +1,11 @@
 {
   "name": "url-shortener",
   "version": "1.0.0",
-  "description": "",
+  "description": "*[express](https://www.npmjs.com/package/express)",
   "main": "index.js",
   "scripts": {
     "start": "node index",
-    "dev":"nodemon index"
+    "dev": "nodemon index"
   },
   "author": "Brandonbr1",
   "license": "ISC",
@@ -18,5 +18,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brandonbr1/url-shortener.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Brandonbr1/url-shortener/issues"
+  },
+  "homepage": "https://github.com/Brandonbr1/url-shortener#readme"
 }
