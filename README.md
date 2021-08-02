@@ -10,5 +10,5 @@
 *[shortid](https://www.npmjs.com/package/shortid)
 *[valid-url](https://www.npmjs.com/package/valid-url)
 
-##option dependices
+## optional dependices
 [nodemon](https://www.npmjs.com/package/nodemon)
