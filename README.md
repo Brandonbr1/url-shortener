@@ -2,15 +2,15 @@
 
 
 ## dependices
-*[express](https://www.npmjs.com/package/express)
+[express](https://www.npmjs.com/package/express)
 
-*[mongoose](https://www.npmjs.com/package/mongoose)
+[mongoose](https://www.npmjs.com/package/mongoose)
 
-*[config](https://www.npmjs.com/package/config)
+[config](https://www.npmjs.com/package/config)
 
-*[shortid](https://www.npmjs.com/package/shortid)
+[shortid](https://www.npmjs.com/package/shortid)
 
-*[valid-url](https://www.npmjs.com/package/valid-url)
+[valid-url](https://www.npmjs.com/package/valid-url)
 
 
 
